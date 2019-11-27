@@ -22,7 +22,7 @@ namespace ConsoleApp1
             { 
                 Console.WriteLine(" FUCK OFF Thot");
             }
-                
+            //:)
             Console.ReadLine();
         }
     }
