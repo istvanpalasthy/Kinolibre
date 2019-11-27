@@ -10,7 +10,20 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            menjetekmá
+            string jokker;
+            jokker = Console.ReadLine();
+
+            if (jokker == "doomer-consoomer-jokker")
+            {
+                Console.WriteLine(jokker);
+            }
+            
+            else if (jokker != "jokker")
+            { 
+                Console.WriteLine(" FUCK OFF Thot");
+            }
+                
+            Console.ReadLine();
         }
     }
 }
